@@ -6,3 +6,6 @@ Once you have copied Ros Driver into your workspace, run the following commands:
   2-. roslaunch ur_robot_driver example_rviz.launch
 Then you can run the python script UR_CONTROLLER_MAIN.py
 At the moment, this program can only execute routines in joint angles notation 
+https://www.youtube.com/watch?v=RMGk-eiFQpA
+https://www.youtube.com/watch?v=ucXbzNTplUM
+https://www.youtube.com/watch?v=11YIMSfJyww
